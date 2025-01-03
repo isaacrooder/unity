@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TAG GAME.sln"
+    "dotnet.defaultSolution": "unity.sln"
 }
